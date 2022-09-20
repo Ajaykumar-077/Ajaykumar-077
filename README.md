@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajaykumar-077
+- 👋 Hi, I’m Ajay kumar
 - 👀 I’m interested in coding,programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
