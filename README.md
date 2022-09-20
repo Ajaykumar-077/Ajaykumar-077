@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajaykumar-077
 - 👀 I’m interested in coding,programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email:ajaykumar07@gmail.com
 
 <!---
